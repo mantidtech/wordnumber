@@ -1,0 +1,6 @@
+.idea
+*.tar
+
+/coverage.html
+/coverage.out
+/wordnumber
